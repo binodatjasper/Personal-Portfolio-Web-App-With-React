@@ -5,3 +5,6 @@
     cd project
     npm start
 </pre>
+
+# Live Demo link
+<a href="https://personal-portfolio-web-app.herokuapp.com/">Demo</a>
