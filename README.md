@@ -7,4 +7,4 @@
 </pre>
 
 # Live Demo link
-<a href="https://personal-portfolio-web-app.herokuapp.com/">Demo</a>
+<a href="https://soft-marigold-b4bb90.netlify.app/">https://soft-marigold-b4bb90.netlify.app</a>
