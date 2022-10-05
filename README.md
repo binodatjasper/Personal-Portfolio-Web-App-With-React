@@ -2,9 +2,9 @@
 # clone the repo and run npm install
 <pre>
     npm install
-    cd project
+    cd project-name
     npm start
 </pre>
 
 # Live Demo link
-<a href="https://soft-marigold-b4bb90.netlify.app/">https://soft-marigold-b4bb90.netlify.app</a>
+<a href="https://personal-portfolio-web-app-with-react.netlify.app/">https://personal-portfolio-web-app-with-react.netlify.app/</a>
